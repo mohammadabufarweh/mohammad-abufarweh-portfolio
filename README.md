@@ -226,3 +226,19 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+
+
+
+
+Number and name of feature: __React , boostrap______________________________
+
+Estimate of time needed to complete: _3 hours____
+
+Start time: __9:00___
+
+Finish time: ___12:00__
+
+Actual time needed to complete: 2 hours_____
+
