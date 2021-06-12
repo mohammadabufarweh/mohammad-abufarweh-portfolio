@@ -107,49 +107,52 @@ class Profile extends React.Component {
                     </Col>
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
-                        <div>
-                          <span className="heading">22</span>
+                        {/* <div>
+                          <span className="heading">28</span>
                           <span className="description">Friends</span>
-                        </div>
-                        <div>
+                        </div> */}
+                        {/* <div>
                           <span className="heading">10</span>
                           <span className="description">Photos</span>
                         </div>
                         <div>
                           <span className="heading">89</span>
                           <span className="description">Comments</span>
-                        </div>
+                        </div> */}
                       </div>
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Mohammad Abu Farweh{" "}
+                      <span className="font-weight-light">, 25</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Amman , Jordan
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      studunt at LTUC 'Sowftware Developer'
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      University of Jordan
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          Mechanical Engineer in major and Software Engineer in passion
+                          Jordan  Contact info.
+
+
                         </p>
+                        <section>
+                        <p><a href="https://drive.google.com/file/d/15v_OR-phIuRJgzt9uLEYLHgdMzywjcTN/view?usp=sharing">Personal Pitch</a></p>
+                        </section>
+
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
                         </a>
